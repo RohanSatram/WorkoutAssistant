@@ -88,7 +88,7 @@ You can add your own custom workouts:
 
 1. **Reference Videos**:
 
-   - Find a high-quality video of the exercise with clear visibility of your full body
+   - Find a high-quality video of the exercise with clear visibility of the whole body
    - Save the video in MP4 format
 
 2. **Add to Reference Library**:
