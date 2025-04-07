@@ -1,0 +1,12 @@
+iimageio
+opencv-python
+git+https://github.com/tensorflow/docs
+tensorflow
+tensorflow_hub
+matplotlib
+imageio[ffmpeg]
+tqdm
+moviepy
+scikit-learn
+fastdtw
+Flask
