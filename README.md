@@ -84,7 +84,7 @@ python app.py
 
 ## Adding Your Own Workouts
 
-You can expand FitRac with your own custom workouts:
+You can add your own custom workouts:
 
 1. **Reference Videos**:
 
