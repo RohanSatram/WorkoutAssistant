@@ -49,7 +49,7 @@ FitRac is an interactive web application that helps users improve their exercise
 
 ```bash
 git clone https://github.com/RohanSatram/WorkoutAssistant.git
-cd fitrac
+cd WorkoutAssistant
 ```
 
 2. Create and activate a virtual environment
@@ -111,9 +111,9 @@ You can expand FitRac with your own custom workouts:
 
 ## How It Works
 
-FitRac uses TensorFlow's MoveNet model for human pose detection. When you submit a video:
+It uses TensorFlow's MoveNet model for human pose detection. When you submit a video:
 
-1. Your exercise video is captured in WebM format
+1. Your exercise video is captured
 2. The video is processed to extract key body points
 3. Dynamic Time Warping (DTW) measures similarity with the reference exercise
 4. Results are displayed as a percentage match score
