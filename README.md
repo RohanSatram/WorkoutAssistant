@@ -1,6 +1,6 @@
 # Workout Form Analysis Assistant
 
-FitRac is an interactive web application that helps users improve their exercise form by analyzing recorded videos using AI-powered pose detection. The application compares your exercise form against reference workouts and provides quantitative feedback on your performance.
+An interactive web application that helps users improve their exercise form by analyzing recorded videos using AI-powered pose detection. The application compares your exercise form against reference workouts and provides quantitative feedback on your performance.
 
 ## Application Flow
 
