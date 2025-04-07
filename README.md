@@ -39,7 +39,7 @@ FitRac is an interactive web application that helps users improve their exercise
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.9 recommended
 - pip
 - FFmpeg (for video processing)
 
